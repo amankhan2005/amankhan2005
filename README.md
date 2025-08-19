@@ -29,11 +29,26 @@
 
 ---
 
-### 📂 Featured Projects
-- 🔹 [Portfolio Website](https://github.com/amankhan2005/portfolio) – My personal developer portfolio  
-- 🔹 [MERN Blog](https://github.com/amankhan2005/mern-blog) – Blogging platform with authentication & CRUD  
+### 📂 Featured Projects  
 
----
+<p align="center">
+  <!-- Cyber Aware Project -->
+  <a href="https://cyber-aware-puce.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/amankhan2005/cyber-aware/main/screenshot.png" width="400" alt="Cyber Aware Project"/>
+  </a>
+  <br/>
+  🔹 <b>[Cyber Aware](https://github.com/amankhan2005/cyber-aware)</b> – A modern web app hosted on Vercel  
+</p>
+
+<p align="center">
+  <!-- ToDesktop Clone Project -->
+  <a href="https://todesktop-frontend-clone.vercel.app" target="_blank">
+    <img src="https://raw.githubusercontent.com/amankhan2005/todesktop-frontend-clone/main/screenshot.png" width="400" alt="ToDesktop Frontend Clone"/>
+  </a>
+  <br/>
+  🔹 <b>[ToDesktop Clone](https://github.com/amankhan2005/todesktop-frontend-clone)</b> – Frontend clone of ToDesktop.com built with MERN stack  
+</p>
+
 
 ### 📬 Let’s Connect!
 <p align="center">

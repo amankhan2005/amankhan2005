@@ -34,7 +34,7 @@
 <p align="center">
   <!-- Cyber Aware Project -->
   <a href="https://cyber-aware-puce.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/amankhan2005/cyber-aware/main/screenshot.png" width="400" alt="Cyber Aware Project"/>
+    <img src="https://news.sophos.com/wp-content/uploads/2018/10/cyberaware-12001.png?w=1200" width="400" alt="Cyber Aware Project"/>
   </a>
   <br/>
   🔹 <b>[Cyber Aware](https://github.com/amankhan2005/cyber-aware)</b> – A modern web app hosted on Vercel  
@@ -43,11 +43,12 @@
 <p align="center">
   <!-- ToDesktop Clone Project -->
   <a href="https://todesktop-frontend-clone.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/amankhan2005/todesktop-frontend-clone/main/screenshot.png" width="400" alt="ToDesktop Frontend Clone"/>
+    <img src="https://github.com/user-attachments/assets/6aae8df3-46b3-4529-9a52-77f7379208e7" width="400" alt="ToDesktop Frontend Clone"/>
   </a>
   <br/>
   🔹 <b>[ToDesktop Clone](https://github.com/amankhan2005/todesktop-frontend-clone)</b> – Frontend clone of ToDesktop.com built with MERN stack  
 </p>
+
 
 
 ### 📬 Let’s Connect!
